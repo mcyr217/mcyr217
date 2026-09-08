@@ -1,16 +1,13 @@
-## Hi there 👋
+# About Me
+My name is Maggie Bragg. I am currently a senior at Old Dominion University, majoring in physics and computer science. Physics was my initial focus. I am very interested in Nuclear and Atomic Physics.
+I started to slowly gravitate towards Computer Science my sophomore year, and it has now become my main focus. I find Web and App Development very interesting.
 
-<!--
-**mcyr217/mcyr217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Contact Information
+- Email: margaret.cyr217@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Known Tools
+- Java
+- Python
+- HTML
+- PHP
+- CSS
